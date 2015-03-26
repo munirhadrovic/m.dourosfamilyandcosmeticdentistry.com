@@ -1461,7 +1461,7 @@ div.ui-mobile-viewport {
 }
 .ui-header .ui-title,
 .ui-footer .ui-title {
-	font-size: 1em;
+	font-size: 13px;
 	min-height: 1.1em;
 	text-align: center;
 	display: block;
@@ -1520,7 +1520,7 @@ div.ui-mobile-viewport {
 .ui-footer button.ui-btn.ui-btn-icon-notext {
 	padding: 0;
 	width: 1.75em;
-	height: 1.75em;
+	height: 1.95em;
 	text-indent: -9999px;
 	white-space: nowrap !important;
 }
